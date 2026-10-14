@@ -204,9 +204,10 @@ Three models compared using an **out-of-time split** (train on past, test on fut
 ## Files
 
 ```
-ML_Churn_Prediction_Italian_Insurance/
+motor-insurance-churn-prediction/
 ├── DSBA_ML_Churn_prediction.ipynb                    # Full ML notebook
 ├── Predicting Churn in Italian Motor Insurance.pdf   # Project report
+├── churn_dashboard.html                              # Interactive dashboard (also live on Netlify)
 └── README.md
 ```
 
