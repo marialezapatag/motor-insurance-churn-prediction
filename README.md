@@ -9,7 +9,7 @@
 
 ## 📊 Live Dashboard
 
-> ### 👉 [View Interactive Churn Dashboard](https://strong-dolphin-66a5cd.netlify.app/)
+> ### 👉 [View Interactive Churn Dashboard](https://marialezapatag.github.io/dashboards/churn.html)
 > Explore the full model results, customer segmentation, churn risk scores, and business insights interactively.
 
 ---
